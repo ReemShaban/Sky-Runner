@@ -1,5 +1,6 @@
 ## Sky Runner
 
 An endless runner game built with unreal engine. Set in a temple like setting with randomly placed obstacles and powering potions, so you could run and jump your way across the sky in this thrilling 3D environment.
-![SkyRunner.gif](SkyRunner.gif)
+
+<img src="SkyRunner.gif" style="width:100%;" alt="SkyRunner.gif is not available"/>
 
